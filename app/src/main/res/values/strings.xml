@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado01</string>
+    <string name="hint_numero1">Ingrese primer número</string>
+    <string name="hint_numero2">Ingrese segundo número</string>
+    <string name="hint_numero3">Ingrese tercer número</string>
+    <string name="calcular_mayor">Calcular Mayor</string>
+    <string name="resultado_default">Resultado aquí</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="apellido_hint">Apellido</string>
+    <string name="correo_hint">Correo electrónico</string>
+    <string name="registrar_button_text">Registrar</string>
+</resources>
